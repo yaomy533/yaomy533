@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=mayandev)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=mayandev) -->
 - 🏢 自我介绍
 - 🚀 常用：C++ Python
 <!--   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python) -->
