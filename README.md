@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- ![](https://github-readme-stats.vercel.app/api?username=mayandev) -->
-- 🏢 自我介绍：目前读于中国地质大学（武汉）自动化学院，导师[徐迟教授](http://grzy.cug.edu.cn/xuchi/zh_CN/index.htm)，从事研究三维刚体位姿估计的研究和应用。
+- 🏢 自我介绍：目前读于中国地质大学（武汉）自动化学院，从事研究三维刚体位姿估计的研究和应用，导师[徐迟教授](http://grzy.cug.edu.cn/xuchi/zh_CN/index.htm)。
 - 🚀 常用：C++ Python
 <!--   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python) -->
 - 💻 项目介绍
